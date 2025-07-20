@@ -83,7 +83,3 @@ Durante a fase de testes, diversos problemas foram identificados e solucionados,
 >>> Contribuições
 
 Este projeto é um exemplo prático da aplicação de testes de software em um contexto de desenvolvimento PHP. Sinta-se à vontade para explorar o código, sugerir melhorias ou reportar problemas. Toda contribuição é bem-vinda!
-
->>> Licença
-
-Este projeto está sob a Licença MIT.
